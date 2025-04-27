@@ -4,7 +4,7 @@ This repository contains a series of GIF files used in the CompleteGame1 project
 
 ## GIF Files
 
-### 1. [t1.gif](./labgif/t1.gif)
+### 1. ![t1.gif](./labgif/t1.gif)
 <!-- Description of `t1.gif`. -->
 
 ### 2. [t2.5.gif](./labgif/t2.5.gif)
